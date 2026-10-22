@@ -1,0 +1,14 @@
+setting,group,label,value,unit
+half_day_min_h,Half day,Minimum presence,4,h
+full_day_h,Half day,Full day,8,h
+working_time_cap_h,Half day,Working time cap,9,h
+wellness_min_h,Wellness,Underutilised below (online),3,h
+wellness_max_h,Wellness,Overburdened above (online),7.5,h
+goal_online_h,Goals,Online time goal,6,h
+goal_active_h,Goals,Active time goal,5,h
+goal_productive_h,Goals,Productive time goal,4,h
+capacity_basis,Capacity benchmark,Measured on,online,
+capacity_benchmark_h,Capacity benchmark,Benchmark,7,h
+capacity_min_h,Capacity benchmark,Min benchmark,6.25,h
+capacity_max_h,Capacity benchmark,Max benchmark,7.75,h
+productive_passive_tracking,Tracking,Productive passive time for meetings,False,

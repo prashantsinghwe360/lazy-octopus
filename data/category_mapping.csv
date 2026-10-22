@@ -1,0 +1,421 @@
+team,category,classification
+MSO - Applications,Adult,unproductive
+MSO - Applications,Banking,unproductive
+MSO - Applications,Browser,neutral
+MSO - Applications,CRM,productive
+MSO - Applications,Communication,productive
+MSO - Applications,Design,neutral
+MSO - Applications,Developer,productive
+MSO - Applications,Finance & accounting,unproductive
+MSO - Applications,Gambling,unproductive
+MSO - Applications,Gaming,unproductive
+MSO - Applications,In-house,productive
+MSO - Applications,Messaging,unproductive
+MSO - Applications,News,unproductive
+MSO - Applications,Office & docs,productive
+MSO - Applications,Personal browsing,unproductive
+MSO - Applications,Professional network,unproductive
+MSO - Applications,Remote access,productive
+MSO - Applications,Social media,unproductive
+MSO - Applications,Uncategorised,neutral
+MSO - Applications,Video / streaming,unproductive
+Managed Services,Adult,unproductive
+Managed Services,Banking,unproductive
+Managed Services,Browser,neutral
+Managed Services,CRM,productive
+Managed Services,Communication,productive
+Managed Services,Design,neutral
+Managed Services,Developer,productive
+Managed Services,Finance & accounting,unproductive
+Managed Services,Gambling,unproductive
+Managed Services,Gaming,unproductive
+Managed Services,In-house,productive
+Managed Services,Messaging,unproductive
+Managed Services,News,unproductive
+Managed Services,Office & docs,productive
+Managed Services,Personal browsing,unproductive
+Managed Services,Professional network,unproductive
+Managed Services,Remote access,productive
+Managed Services,Social media,unproductive
+Managed Services,Uncategorised,neutral
+Managed Services,Video / streaming,unproductive
+MSO - Monitoring,Adult,unproductive
+MSO - Monitoring,Banking,unproductive
+MSO - Monitoring,Browser,neutral
+MSO - Monitoring,CRM,productive
+MSO - Monitoring,Communication,productive
+MSO - Monitoring,Design,neutral
+MSO - Monitoring,Developer,productive
+MSO - Monitoring,Finance & accounting,unproductive
+MSO - Monitoring,Gambling,unproductive
+MSO - Monitoring,Gaming,unproductive
+MSO - Monitoring,In-house,productive
+MSO - Monitoring,Messaging,unproductive
+MSO - Monitoring,News,unproductive
+MSO - Monitoring,Office & docs,productive
+MSO - Monitoring,Personal browsing,unproductive
+MSO - Monitoring,Professional network,unproductive
+MSO - Monitoring,Remote access,productive
+MSO - Monitoring,Social media,unproductive
+MSO - Monitoring,Uncategorised,neutral
+MSO - Monitoring,Video / streaming,unproductive
+MSO - Infra & AIOps,Adult,unproductive
+MSO - Infra & AIOps,Banking,unproductive
+MSO - Infra & AIOps,Browser,neutral
+MSO - Infra & AIOps,CRM,productive
+MSO - Infra & AIOps,Communication,productive
+MSO - Infra & AIOps,Design,neutral
+MSO - Infra & AIOps,Developer,productive
+MSO - Infra & AIOps,Finance & accounting,unproductive
+MSO - Infra & AIOps,Gambling,unproductive
+MSO - Infra & AIOps,Gaming,unproductive
+MSO - Infra & AIOps,In-house,productive
+MSO - Infra & AIOps,Messaging,unproductive
+MSO - Infra & AIOps,News,unproductive
+MSO - Infra & AIOps,Office & docs,productive
+MSO - Infra & AIOps,Personal browsing,unproductive
+MSO - Infra & AIOps,Professional network,unproductive
+MSO - Infra & AIOps,Remote access,productive
+MSO - Infra & AIOps,Social media,unproductive
+MSO - Infra & AIOps,Uncategorised,neutral
+MSO - Infra & AIOps,Video / streaming,unproductive
+People & Culture,Adult,unproductive
+People & Culture,Banking,unproductive
+People & Culture,Browser,neutral
+People & Culture,CRM,productive
+People & Culture,Communication,productive
+People & Culture,Design,neutral
+People & Culture,Developer,neutral
+People & Culture,Finance & accounting,unproductive
+People & Culture,Gambling,unproductive
+People & Culture,Gaming,unproductive
+People & Culture,In-house,productive
+People & Culture,Messaging,unproductive
+People & Culture,News,unproductive
+People & Culture,Office & docs,productive
+People & Culture,Personal browsing,unproductive
+People & Culture,Professional network,unproductive
+People & Culture,Remote access,productive
+People & Culture,Social media,unproductive
+People & Culture,Uncategorised,neutral
+People & Culture,Video / streaming,unproductive
+GCC Data AI Presales,Adult,unproductive
+GCC Data AI Presales,Banking,unproductive
+GCC Data AI Presales,Browser,neutral
+GCC Data AI Presales,CRM,productive
+GCC Data AI Presales,Communication,productive
+GCC Data AI Presales,Design,neutral
+GCC Data AI Presales,Developer,neutral
+GCC Data AI Presales,Finance & accounting,unproductive
+GCC Data AI Presales,Gambling,unproductive
+GCC Data AI Presales,Gaming,unproductive
+GCC Data AI Presales,In-house,productive
+GCC Data AI Presales,Messaging,unproductive
+GCC Data AI Presales,News,unproductive
+GCC Data AI Presales,Office & docs,productive
+GCC Data AI Presales,Personal browsing,unproductive
+GCC Data AI Presales,Professional network,unproductive
+GCC Data AI Presales,Remote access,productive
+GCC Data AI Presales,Social media,unproductive
+GCC Data AI Presales,Uncategorised,neutral
+GCC Data AI Presales,Video / streaming,unproductive
+Salesforce Practice,Adult,unproductive
+Salesforce Practice,Banking,unproductive
+Salesforce Practice,Browser,neutral
+Salesforce Practice,CRM,productive
+Salesforce Practice,Communication,productive
+Salesforce Practice,Design,neutral
+Salesforce Practice,Developer,productive
+Salesforce Practice,Finance & accounting,unproductive
+Salesforce Practice,Gambling,unproductive
+Salesforce Practice,Gaming,unproductive
+Salesforce Practice,In-house,productive
+Salesforce Practice,Messaging,unproductive
+Salesforce Practice,News,unproductive
+Salesforce Practice,Office & docs,productive
+Salesforce Practice,Personal browsing,unproductive
+Salesforce Practice,Professional network,unproductive
+Salesforce Practice,Remote access,productive
+Salesforce Practice,Social media,unproductive
+Salesforce Practice,Uncategorised,neutral
+Salesforce Practice,Video / streaming,unproductive
+Default,Adult,unproductive
+Default,Banking,unproductive
+Default,Browser,neutral
+Default,CRM,productive
+Default,Communication,productive
+Default,Design,neutral
+Default,Developer,productive
+Default,Finance & accounting,unproductive
+Default,Gambling,unproductive
+Default,Gaming,unproductive
+Default,In-house,productive
+Default,Messaging,unproductive
+Default,News,unproductive
+Default,Office & docs,productive
+Default,Personal browsing,unproductive
+Default,Professional network,unproductive
+Default,Remote access,productive
+Default,Social media,unproductive
+Default,Uncategorised,neutral
+Default,Video / streaming,unproductive
+Finance & Compliance,Adult,unproductive
+Finance & Compliance,Banking,unproductive
+Finance & Compliance,Browser,neutral
+Finance & Compliance,CRM,productive
+Finance & Compliance,Communication,productive
+Finance & Compliance,Design,neutral
+Finance & Compliance,Developer,neutral
+Finance & Compliance,Finance & accounting,unproductive
+Finance & Compliance,Gambling,unproductive
+Finance & Compliance,Gaming,unproductive
+Finance & Compliance,In-house,productive
+Finance & Compliance,Messaging,unproductive
+Finance & Compliance,News,unproductive
+Finance & Compliance,Office & docs,productive
+Finance & Compliance,Personal browsing,unproductive
+Finance & Compliance,Professional network,unproductive
+Finance & Compliance,Remote access,productive
+Finance & Compliance,Social media,unproductive
+Finance & Compliance,Uncategorised,neutral
+Finance & Compliance,Video / streaming,unproductive
+TCoE,Adult,unproductive
+TCoE,Banking,unproductive
+TCoE,Browser,neutral
+TCoE,CRM,productive
+TCoE,Communication,productive
+TCoE,Design,neutral
+TCoE,Developer,productive
+TCoE,Finance & accounting,unproductive
+TCoE,Gambling,unproductive
+TCoE,Gaming,unproductive
+TCoE,In-house,productive
+TCoE,Messaging,unproductive
+TCoE,News,unproductive
+TCoE,Office & docs,productive
+TCoE,Personal browsing,unproductive
+TCoE,Professional network,unproductive
+TCoE,Remote access,productive
+TCoE,Social media,unproductive
+TCoE,Uncategorised,neutral
+TCoE,Video / streaming,unproductive
+Product and Innovation,Adult,unproductive
+Product and Innovation,Banking,unproductive
+Product and Innovation,Browser,neutral
+Product and Innovation,CRM,productive
+Product and Innovation,Communication,productive
+Product and Innovation,Design,productive
+Product and Innovation,Developer,productive
+Product and Innovation,Finance & accounting,unproductive
+Product and Innovation,Gambling,unproductive
+Product and Innovation,Gaming,unproductive
+Product and Innovation,In-house,productive
+Product and Innovation,Messaging,unproductive
+Product and Innovation,News,unproductive
+Product and Innovation,Office & docs,productive
+Product and Innovation,Personal browsing,unproductive
+Product and Innovation,Professional network,unproductive
+Product and Innovation,Remote access,productive
+Product and Innovation,Social media,unproductive
+Product and Innovation,Uncategorised,neutral
+Product and Innovation,Video / streaming,unproductive
+Product Development,Adult,unproductive
+Product Development,Banking,unproductive
+Product Development,Browser,neutral
+Product Development,CRM,productive
+Product Development,Communication,productive
+Product Development,Design,productive
+Product Development,Developer,productive
+Product Development,Finance & accounting,unproductive
+Product Development,Gambling,unproductive
+Product Development,Gaming,unproductive
+Product Development,In-house,productive
+Product Development,Messaging,unproductive
+Product Development,News,unproductive
+Product Development,Office & docs,productive
+Product Development,Personal browsing,unproductive
+Product Development,Professional network,unproductive
+Product Development,Remote access,productive
+Product Development,Social media,unproductive
+Product Development,Uncategorised,neutral
+Product Development,Video / streaming,unproductive
+ESBU,Adult,unproductive
+ESBU,Banking,unproductive
+ESBU,Browser,neutral
+ESBU,CRM,productive
+ESBU,Communication,productive
+ESBU,Design,neutral
+ESBU,Developer,productive
+ESBU,Finance & accounting,unproductive
+ESBU,Gambling,unproductive
+ESBU,Gaming,unproductive
+ESBU,In-house,productive
+ESBU,Messaging,unproductive
+ESBU,News,unproductive
+ESBU,Office & docs,productive
+ESBU,Personal browsing,unproductive
+ESBU,Professional network,unproductive
+ESBU,Remote access,productive
+ESBU,Social media,unproductive
+ESBU,Uncategorised,neutral
+ESBU,Video / streaming,unproductive
+Service Delivery Mgmt,Adult,unproductive
+Service Delivery Mgmt,Banking,unproductive
+Service Delivery Mgmt,Browser,neutral
+Service Delivery Mgmt,CRM,productive
+Service Delivery Mgmt,Communication,productive
+Service Delivery Mgmt,Design,neutral
+Service Delivery Mgmt,Developer,productive
+Service Delivery Mgmt,Finance & accounting,unproductive
+Service Delivery Mgmt,Gambling,unproductive
+Service Delivery Mgmt,Gaming,unproductive
+Service Delivery Mgmt,In-house,productive
+Service Delivery Mgmt,Messaging,unproductive
+Service Delivery Mgmt,News,unproductive
+Service Delivery Mgmt,Office & docs,productive
+Service Delivery Mgmt,Personal browsing,unproductive
+Service Delivery Mgmt,Professional network,unproductive
+Service Delivery Mgmt,Remote access,productive
+Service Delivery Mgmt,Social media,unproductive
+Service Delivery Mgmt,Uncategorised,neutral
+Service Delivery Mgmt,Video / streaming,unproductive
+AG MGATE,Adult,unproductive
+AG MGATE,Banking,unproductive
+AG MGATE,Browser,neutral
+AG MGATE,CRM,productive
+AG MGATE,Communication,productive
+AG MGATE,Design,neutral
+AG MGATE,Developer,productive
+AG MGATE,Finance & accounting,unproductive
+AG MGATE,Gambling,unproductive
+AG MGATE,Gaming,unproductive
+AG MGATE,In-house,productive
+AG MGATE,Messaging,unproductive
+AG MGATE,News,unproductive
+AG MGATE,Office & docs,productive
+AG MGATE,Personal browsing,unproductive
+AG MGATE,Professional network,unproductive
+AG MGATE,Remote access,productive
+AG MGATE,Social media,unproductive
+AG MGATE,Uncategorised,neutral
+AG MGATE,Video / streaming,unproductive
+Marketing & Partnership,Adult,unproductive
+Marketing & Partnership,Banking,unproductive
+Marketing & Partnership,Browser,neutral
+Marketing & Partnership,CRM,productive
+Marketing & Partnership,Communication,productive
+Marketing & Partnership,Design,productive
+Marketing & Partnership,Developer,neutral
+Marketing & Partnership,Finance & accounting,unproductive
+Marketing & Partnership,Gambling,unproductive
+Marketing & Partnership,Gaming,unproductive
+Marketing & Partnership,In-house,productive
+Marketing & Partnership,Messaging,unproductive
+Marketing & Partnership,News,unproductive
+Marketing & Partnership,Office & docs,productive
+Marketing & Partnership,Personal browsing,unproductive
+Marketing & Partnership,Professional network,unproductive
+Marketing & Partnership,Remote access,productive
+Marketing & Partnership,Social media,unproductive
+Marketing & Partnership,Uncategorised,neutral
+Marketing & Partnership,Video / streaming,unproductive
+MSO - Ops & Service Mgmt,Adult,unproductive
+MSO - Ops & Service Mgmt,Banking,unproductive
+MSO - Ops & Service Mgmt,Browser,neutral
+MSO - Ops & Service Mgmt,CRM,productive
+MSO - Ops & Service Mgmt,Communication,productive
+MSO - Ops & Service Mgmt,Design,neutral
+MSO - Ops & Service Mgmt,Developer,productive
+MSO - Ops & Service Mgmt,Finance & accounting,unproductive
+MSO - Ops & Service Mgmt,Gambling,unproductive
+MSO - Ops & Service Mgmt,Gaming,unproductive
+MSO - Ops & Service Mgmt,In-house,productive
+MSO - Ops & Service Mgmt,Messaging,unproductive
+MSO - Ops & Service Mgmt,News,unproductive
+MSO - Ops & Service Mgmt,Office & docs,productive
+MSO - Ops & Service Mgmt,Personal browsing,unproductive
+MSO - Ops & Service Mgmt,Professional network,unproductive
+MSO - Ops & Service Mgmt,Remote access,productive
+MSO - Ops & Service Mgmt,Social media,unproductive
+MSO - Ops & Service Mgmt,Uncategorised,neutral
+MSO - Ops & Service Mgmt,Video / streaming,unproductive
+Software Engineering,Adult,unproductive
+Software Engineering,Banking,unproductive
+Software Engineering,Browser,neutral
+Software Engineering,CRM,productive
+Software Engineering,Communication,productive
+Software Engineering,Design,productive
+Software Engineering,Developer,productive
+Software Engineering,Finance & accounting,unproductive
+Software Engineering,Gambling,unproductive
+Software Engineering,Gaming,unproductive
+Software Engineering,In-house,productive
+Software Engineering,Messaging,unproductive
+Software Engineering,News,unproductive
+Software Engineering,Office & docs,productive
+Software Engineering,Personal browsing,unproductive
+Software Engineering,Professional network,unproductive
+Software Engineering,Remote access,productive
+Software Engineering,Social media,unproductive
+Software Engineering,Uncategorised,neutral
+Software Engineering,Video / streaming,unproductive
+SAP Practice,Adult,unproductive
+SAP Practice,Banking,unproductive
+SAP Practice,Browser,neutral
+SAP Practice,CRM,productive
+SAP Practice,Communication,productive
+SAP Practice,Design,neutral
+SAP Practice,Developer,productive
+SAP Practice,Finance & accounting,unproductive
+SAP Practice,Gambling,unproductive
+SAP Practice,Gaming,unproductive
+SAP Practice,In-house,productive
+SAP Practice,Messaging,unproductive
+SAP Practice,News,unproductive
+SAP Practice,Office & docs,productive
+SAP Practice,Personal browsing,unproductive
+SAP Practice,Professional network,unproductive
+SAP Practice,Remote access,productive
+SAP Practice,Social media,unproductive
+SAP Practice,Uncategorised,neutral
+SAP Practice,Video / streaming,unproductive
+Sales - MY SG ASEAN,Adult,unproductive
+Sales - MY SG ASEAN,Banking,unproductive
+Sales - MY SG ASEAN,Browser,neutral
+Sales - MY SG ASEAN,CRM,productive
+Sales - MY SG ASEAN,Communication,productive
+Sales - MY SG ASEAN,Design,neutral
+Sales - MY SG ASEAN,Developer,neutral
+Sales - MY SG ASEAN,Finance & accounting,unproductive
+Sales - MY SG ASEAN,Gambling,unproductive
+Sales - MY SG ASEAN,Gaming,unproductive
+Sales - MY SG ASEAN,In-house,productive
+Sales - MY SG ASEAN,Messaging,unproductive
+Sales - MY SG ASEAN,News,unproductive
+Sales - MY SG ASEAN,Office & docs,productive
+Sales - MY SG ASEAN,Personal browsing,unproductive
+Sales - MY SG ASEAN,Professional network,unproductive
+Sales - MY SG ASEAN,Remote access,productive
+Sales - MY SG ASEAN,Social media,unproductive
+Sales - MY SG ASEAN,Uncategorised,neutral
+Sales - MY SG ASEAN,Video / streaming,unproductive
+IT Security & Governance,Adult,unproductive
+IT Security & Governance,Banking,unproductive
+IT Security & Governance,Browser,neutral
+IT Security & Governance,CRM,productive
+IT Security & Governance,Communication,productive
+IT Security & Governance,Design,neutral
+IT Security & Governance,Developer,productive
+IT Security & Governance,Finance & accounting,unproductive
+IT Security & Governance,Gambling,unproductive
+IT Security & Governance,Gaming,unproductive
+IT Security & Governance,In-house,productive
+IT Security & Governance,Messaging,unproductive
+IT Security & Governance,News,unproductive
+IT Security & Governance,Office & docs,productive
+IT Security & Governance,Personal browsing,unproductive
+IT Security & Governance,Professional network,unproductive
+IT Security & Governance,Remote access,productive
+IT Security & Governance,Social media,unproductive
+IT Security & Governance,Uncategorised,neutral
+IT Security & Governance,Video / streaming,unproductive

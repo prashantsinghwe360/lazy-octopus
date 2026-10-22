@@ -1,0 +1,7 @@
+metric,label,enabled,weight,note
+work_units,Work Units,True,40,"Units / team median, capped at 1"
+productive_hours,Productive Hours,True,20,Avg productive / productive goal
+attendance_pct,Attendance %,True,15,Present days / working days
+online_hours,Online Hours,True,10,Avg online / online goal
+idle_penalty,Idle Penalty (inverted),True,5,1 - idle share of online
+active_hours,Active Hours (assumed),True,10,Assumed sixth metric

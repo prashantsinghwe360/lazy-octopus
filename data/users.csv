@@ -1,0 +1,468 @@
+user_id,employee_id,name,email,team,department,location,account_type,join_date,exit_date,status
+U001,E1001,Nadia Hoang,nadia.hoang@client.example,MSO - Applications,MSO,Manila,user,2026-04-01,,Active
+U002,E1002,Bea Gupta,bea.gupta@client.example,MSO - Applications,MSO,Ho Chi Minh City,user,2026-04-01,,Active
+U003,E1003,Suresh Iyer,suresh.iyer@client.example,MSO - Applications,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U004,E1004,Manoj Nguyen,manoj.nguyen@client.example,MSO - Applications,MSO,Singapore,user,2026-04-01,,Active
+U005,E1005,Shreya Le,shreya.le@client.example,MSO - Applications,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U006,E1006,Aisyah Nair,aisyah.nair@client.example,MSO - Applications,MSO,Singapore,user,2026-04-01,,Active
+U007,E1007,Hui Rahman,hui.rahman@client.example,MSO - Applications,MSO,Ho Chi Minh City,user,2026-04-01,,Active
+U008,E1008,Sneha Hoang,sneha.hoang@client.example,MSO - Applications,MSO,Bengaluru,user,2026-04-01,,Active
+U009,E1009,Nadia Hassan,nadia.hassan@client.example,MSO - Applications,MSO,Bengaluru,user,2026-07-22,,Active
+U010,E1010,Duc Menon,duc.menon@client.example,MSO - Applications,MSO,Manila,user,2026-05-26,,Active
+U011,E1011,Hieu Joshi,hieu.joshi@client.example,MSO - Applications,MSO,Ho Chi Minh City,user,2026-06-30,,Active
+U012,E1012,Ahmad Hassan,ahmad.hassan@client.example,MSO - Applications,MSO,Bengaluru,user,2026-04-01,,Active
+U013,E1013,Nikhil Ngo,nikhil.ngo@client.example,MSO - Applications,MSO,Singapore,user,2026-04-01,,Active
+U014,E1014,Paolo Krishnan,paolo.krishnan@client.example,MSO - Applications,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U015,E1015,Ganesh Ng,ganesh.ng@client.example,MSO - Applications,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U016,E1016,Manoj Reyes,manoj.reyes@client.example,Managed Services,Managed Services,Singapore,user,2026-04-01,,Active
+U017,E1017,Paolo Chong,paolo.chong@client.example,Managed Services,Managed Services,Kuala Lumpur,user,2026-04-01,,Active
+U018,E1018,Ahmad Wong,ahmad.wong@client.example,Managed Services,Managed Services,Kuala Lumpur,user,2026-04-01,,Active
+U019,E1019,Wei Raman,wei.raman@client.example,Managed Services,Managed Services,Kuala Lumpur,user,2026-04-01,,Active
+U020,E1020,Rafael Reddy,rafael.reddy@client.example,Managed Services,Managed Services,Kuala Lumpur,user,2026-04-01,,Active
+U021,E1021,Rohan Garcia,rohan.garcia@client.example,Managed Services,Managed Services,Kuala Lumpur,user,2026-07-13,,Active
+U022,E1022,Ganesh Pillai,ganesh.pillai@client.example,Managed Services,Managed Services,Bengaluru,user,2026-04-01,2026-06-22,Inactive
+U023,E1023,Ling Reddy,ling.reddy@client.example,Managed Services,Managed Services,Bengaluru,user,2026-04-01,,Active
+U024,E1024,Carlo Rahman,carlo.rahman@client.example,Managed Services,Managed Services,Singapore,user,2026-04-01,,Active
+U025,E1025,Nadia Osman,nadia.osman@client.example,Managed Services,Managed Services,Manila,user,2026-04-01,,Active
+U026,E1026,Harish Goh,harish.goh@client.example,MSO - Monitoring,MSO,Bengaluru,user,2026-04-01,,Active
+U027,E1027,Mark Pillai,mark.pillai@client.example,MSO - Monitoring,MSO,Ho Chi Minh City,user,2026-04-01,,Active
+U028,E1028,Jun Reddy,jun.reddy@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U029,E1029,Wei Patel,wei.patel@client.example,MSO - Monitoring,MSO,Manila,user,2026-04-01,,Active
+U030,E1030,Duc Abdullah,duc.abdullah@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U031,E1031,Lan Abdullah,lan.abdullah@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U032,E1032,Mark Wong,mark.wong@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U033,E1033,Paolo Yusof,paolo.yusof@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U034,E1034,Linh Pham,linh.pham@client.example,MSO - Monitoring,MSO,Manila,user,2026-04-01,,Active
+U035,E1035,Suresh Subramaniam,suresh.subramaniam@client.example,MSO - Monitoring,MSO,Bengaluru,user,2026-04-01,,Active
+U036,E1036,Naveen Le,naveen.le@client.example,MSO - Monitoring,MSO,Singapore,user,2026-04-01,,Active
+U037,E1037,Hafiz Tran,hafiz.tran@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U038,E1038,Meera Aziz,meera.aziz@client.example,MSO - Monitoring,MSO,Ho Chi Minh City,user,2026-04-01,,Active
+U039,E1039,Suresh Goh,suresh.goh@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U040,E1040,Jia Patel,jia.patel@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U041,E1041,Ganesh Chong,ganesh.chong@client.example,MSO - Monitoring,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U042,E1041,Ganesh Chong,ganesh.chong@client.example,MSO - Monitoring,MSO,Ho Chi Minh City,user,2026-04-01,,Active
+U043,E1043,Deepa Ismail,deepa.ismail@client.example,MSO - Infra & AIOps,MSO,Singapore,user,2026-05-08,,Active
+U044,E1044,Kavya Subramaniam,kavya.subramaniam@client.example,MSO - Infra & AIOps,MSO,Kuala Lumpur,user,2026-05-05,,Active
+U045,E1045,Revathy Santos,revathy.santos@client.example,MSO - Infra & AIOps,MSO,Manila,user,2026-04-01,,Active
+U046,E1046,Linh Joshi,linh.joshi@client.example,MSO - Infra & AIOps,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U047,E1047,Divya Dang,divya.dang@client.example,MSO - Infra & AIOps,MSO,Ho Chi Minh City,user,2026-04-01,,Active
+U048,E1048,Nikhil Krishnan,nikhil.krishnan@client.example,MSO - Infra & AIOps,MSO,Bengaluru,user,2026-04-01,,Active
+U049,E1049,Rafael Ismail,rafael.ismail@client.example,MSO - Infra & AIOps,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U050,E1050,Karthik Lim,karthik.lim@client.example,MSO - Infra & AIOps,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U051,E1051,Paolo Hassan,paolo.hassan@client.example,MSO - Infra & AIOps,MSO,Manila,user,2026-04-01,,Active
+U052,E1052,Aisyah Santos,aisyah.santos@client.example,MSO - Infra & AIOps,MSO,Manila,user,2026-04-01,,Active
+U053,E1053,Nurul Vu,nurul.vu@client.example,MSO - Infra & AIOps,MSO,Ho Chi Minh City,user,2026-04-01,,Active
+U054,E1054,Quang Teo,quang.teo@client.example,MSO - Infra & AIOps,MSO,Singapore,user,2026-04-01,,Active
+U055,E1055,Suresh Villanueva,suresh.villanueva@client.example,MSO - Infra & AIOps,MSO,Singapore,user,2026-04-01,,Active
+U056,E1056,Rafael Kulkarni,rafael.kulkarni@client.example,People & Culture,People & Culture,Kuala Lumpur,user,2026-04-01,,Active
+U057,E1057,Deepa Yusof,deepa.yusof@client.example,People & Culture,People & Culture,Kuala Lumpur,user,2026-04-01,,Active
+U058,E1058,Tuan Hoang,tuan.hoang@client.example,People & Culture,People & Culture,Kuala Lumpur,user,2026-04-01,,Active
+U059,E1059,Rafael Aquino,rafael.aquino@client.example,People & Culture,People & Culture,Kuala Lumpur,user,2026-04-01,,Active
+U060,E1060,Danial Reyes,danial.reyes@client.example,People & Culture,People & Culture,Singapore,user,2026-04-01,,Active
+U061,E1061,Revathy Subramaniam,revathy.subramaniam@client.example,People & Culture,People & Culture,Manila,user,2026-04-01,,Active
+U062,E1062,Ananya Shetty,ananya.shetty@client.example,People & Culture,People & Culture,Manila,user,2026-04-01,,Active
+U063,E1063,Hui Navarro,hui.navarro@client.example,People & Culture,People & Culture,Kuala Lumpur,user,2026-04-01,,Active
+U064,E1064,Kavya Rahman,kavya.rahman@client.example,People & Culture,People & Culture,Bengaluru,user,2026-04-01,,Active
+U065,E1065,Nadia Reddy,nadia.reddy@client.example,People & Culture,People & Culture,Bengaluru,user,2026-04-01,,Active
+U066,E1066,Nadia Pillai,nadia.pillai@client.example,People & Culture,People & Culture,Kuala Lumpur,user,2026-04-01,,Active
+U067,E1067,Arjun Hassan,arjun.hassan@client.example,People & Culture,People & Culture,Kuala Lumpur,user,2026-04-01,,Active
+U068,E1068,Divya Wong,divya.wong@client.example,GCC Data AI Presales,GCC Data AI Presales,Bengaluru,user,2026-04-01,,Active
+U069,E1069,Harish Sharma,harish.sharma@client.example,GCC Data AI Presales,GCC Data AI Presales,Singapore,user,2026-04-01,,Active
+U070,E1070,Arjun Aziz,arjun.aziz@client.example,GCC Data AI Presales,GCC Data AI Presales,Singapore,user,2026-04-01,,Active
+U071,E1071,Siti Nguyen,siti.nguyen@client.example,GCC Data AI Presales,GCC Data AI Presales,Kuala Lumpur,user,2026-04-01,,Active
+U072,E1072,Mark Bautista,mark.bautista@client.example,GCC Data AI Presales,GCC Data AI Presales,Manila,user,2026-04-01,,Active
+U073,E1073,Danial Lee,danial.lee@client.example,GCC Data AI Presales,GCC Data AI Presales,Singapore,user,2026-04-01,,Active
+U074,E1074,Paolo Goh,paolo.goh@client.example,GCC Data AI Presales,GCC Data AI Presales,Singapore,user,2026-04-01,,Active
+U075,E1075,Arjun Chong,arjun.chong@client.example,GCC Data AI Presales,GCC Data AI Presales,Kuala Lumpur,user,2026-06-19,,Active
+U076,E1076,Carlo Pham,carlo.pham@client.example,GCC Data AI Presales,GCC Data AI Presales,Kuala Lumpur,user,2026-04-01,,Active
+U077,E1077,Linh Osman,linh.osman@client.example,GCC Data AI Presales,GCC Data AI Presales,Singapore,user,2026-04-01,,Active
+U078,E1078,Tuan Bui,tuan.bui@client.example,GCC Data AI Presales,GCC Data AI Presales,Bengaluru,user,2026-04-01,,Active
+U079,E1079,Deepa Joshi,deepa.joshi@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U080,E1080,Liyana Ismail,liyana.ismail@client.example,Salesforce Practice,Salesforce Practice,Bengaluru,user,2026-04-01,,Active
+U081,E1081,Deepa Do,deepa.do@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,2026-09-25,Inactive
+U082,E1082,Mei Ng,mei.ng@client.example,Salesforce Practice,Salesforce Practice,Bengaluru,user,2026-04-01,,Active
+U083,E1083,Divya Shetty,divya.shetty@client.example,Salesforce Practice,Salesforce Practice,Ho Chi Minh City,user,2026-04-01,,Active
+U084,E1084,Farah Bui,farah.bui@client.example,Salesforce Practice,Salesforce Practice,Ho Chi Minh City,user,2026-04-01,,Active
+U085,E1085,Ganesh Goh,ganesh.goh@client.example,Salesforce Practice,Salesforce Practice,Singapore,user,2026-04-01,,Active
+U086,E1086,Danial Kulkarni,danial.kulkarni@client.example,Salesforce Practice,Salesforce Practice,Manila,user,2026-04-01,,Active
+U087,E1087,Rahul Menon,rahul.menon@client.example,Salesforce Practice,Salesforce Practice,Singapore,user,2026-04-01,,Active
+U088,E1088,Priya Subramaniam,priya.subramaniam@client.example,Salesforce Practice,Salesforce Practice,Singapore,user,2026-04-01,,Active
+U089,E1089,Quang Goh,quang.goh@client.example,Salesforce Practice,Salesforce Practice,Bengaluru,user,2026-04-01,,Active
+U090,E1090,Ananya Rao,ananya.rao@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U091,E1091,Siti Hoang,siti.hoang@client.example,Salesforce Practice,Salesforce Practice,Bengaluru,user,2026-04-01,,Active
+U092,E1092,Arjun Nguyen,arjun.nguyen@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U093,E1093,Xin Bautista,xin.bautista@client.example,Salesforce Practice,Salesforce Practice,Bengaluru,user,2026-04-01,,Active
+U094,E1094,Bea Ramos,bea.ramos@client.example,Salesforce Practice,Salesforce Practice,Singapore,user,2026-06-12,,Active
+U095,E1095,Pooja Hoang,pooja.hoang@client.example,Salesforce Practice,Salesforce Practice,Manila,user,2026-04-01,,Active
+U096,E1096,Nurul Abdullah,nurul.abdullah@client.example,Salesforce Practice,Salesforce Practice,Manila,user,2026-04-01,,Active
+U097,E1097,Duc Chong,duc.chong@client.example,Salesforce Practice,Salesforce Practice,Bengaluru,user,2026-04-01,,Active
+U098,E1098,Jia Joshi,jia.joshi@client.example,Salesforce Practice,Salesforce Practice,Bengaluru,user,2026-04-01,,Active
+U099,E1099,Ling Rao,ling.rao@client.example,Salesforce Practice,Salesforce Practice,Bengaluru,user,2026-05-21,,Active
+U100,E1100,Ngoc Ngo,ngoc.ngo@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U101,E1101,Shreya Chong,shreya.chong@client.example,Salesforce Practice,Salesforce Practice,Manila,user,2026-04-01,,Active
+U102,E1102,Meera Teo,meera.teo@client.example,Salesforce Practice,Salesforce Practice,Singapore,user,2026-04-01,,Active
+U103,E1103,Yi Nair,yi.nair@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U104,E1104,Wei Shetty,wei.shetty@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U105,E1105,Xin Dang,xin.dang@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U106,E1106,Meera Ramos,meera.ramos@client.example,Salesforce Practice,Salesforce Practice,Singapore,user,2026-04-01,,Active
+U107,E1107,Huong Rahman,huong.rahman@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U108,E1108,Hao Mendoza,hao.mendoza@client.example,Salesforce Practice,Salesforce Practice,Ho Chi Minh City,user,2026-04-01,,Active
+U109,E1109,Noel Do,noel.do@client.example,Salesforce Practice,Salesforce Practice,Manila,user,2026-04-01,,Active
+U110,E1110,Karthik Dang,karthik.dang@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U111,E1111,Xin Navarro,xin.navarro@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U112,E1112,Rohan Iyer,rohan.iyer@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U113,E1113,Linh Dang,linh.dang@client.example,Salesforce Practice,Salesforce Practice,Ho Chi Minh City,user,2026-04-01,,Active
+U114,E1114,Lan Vu,lan.vu@client.example,Salesforce Practice,Salesforce Practice,Singapore,user,2026-04-01,2026-08-26,Inactive
+U115,E1115,Hui Tan,hui.tan@client.example,Salesforce Practice,Salesforce Practice,Kuala Lumpur,user,2026-04-01,,Active
+U116,E1116,Trang Wong,trang.wong@client.example,Salesforce Practice,Salesforce Practice,Manila,user,2026-04-01,,Active
+U117,E1117,Minh Subramaniam,minh.subramaniam@client.example,Default,Default,Ho Chi Minh City,user,2026-04-01,,Active
+U118,E1118,Amir Shetty,amir.shetty@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U119,E1119,Tuan Gupta,tuan.gupta@client.example,Default,Default,Bengaluru,user,2026-04-01,,Active
+U120,E1120,Naveen Ngo,naveen.ngo@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U121,E1121,Divya Joshi,divya.joshi@client.example,Default,Default,Manila,user,2026-04-01,,Active
+U122,E1122,Ngoc Villanueva,ngoc.villanueva@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U123,E1123,Rohan Murthy,rohan.murthy@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U124,E1124,Deepa Reyes,deepa.reyes@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U125,E1125,Hui Mendoza,hui.mendoza@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U126,E1126,Rahul Gupta,rahul.gupta@client.example,Default,Default,Bengaluru,user,2026-04-01,,Active
+U127,E1127,Izzati Chong,izzati.chong@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U128,E1128,Farah Dang,farah.dang@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U129,E1129,Sneha Tan,sneha.tan@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U130,E1130,Rohan Dang,rohan.dang@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U131,E1131,Pooja Rahman,pooja.rahman@client.example,Default,Default,Ho Chi Minh City,user,2026-04-01,,Active
+U132,E1132,Rohan Osman,rohan.osman@client.example,Default,Default,Ho Chi Minh City,user,2026-04-01,,Active
+U133,E1133,Hui Bautista,hui.bautista@client.example,Default,Default,Manila,user,2026-04-01,,Active
+U134,E1134,Patricia Pillai,patricia.pillai@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U135,E1135,Ling Lee,ling.lee@client.example,Default,Default,Singapore,user,2026-04-01,,Active
+U136,E1136,Hui Vu,hui.vu@client.example,Default,Default,Bengaluru,user,2026-04-01,,Active
+U137,E1137,Patricia Bui,patricia.bui@client.example,Default,Default,Singapore,user,2026-04-01,,Active
+U138,E1138,Ling Aquino,ling.aquino@client.example,Default,Default,Ho Chi Minh City,user,2026-04-01,,Active
+U139,E1139,Aisyah Garcia,aisyah.garcia@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U140,E1140,Duc Krishnan,duc.krishnan@client.example,Default,Default,Bengaluru,user,2026-04-01,,Active
+U141,E1141,Nurul Tan,nurul.tan@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U142,E1142,Linh Hassan,linh.hassan@client.example,Default,Default,Ho Chi Minh City,user,2026-04-01,,Active
+U143,E1143,Jia Villanueva,jia.villanueva@client.example,Default,Default,Manila,user,2026-04-01,,Active
+U144,E1144,Farah Menon,farah.menon@client.example,Default,Default,Manila,user,2026-07-24,,Active
+U145,E1145,Patricia Abdullah,patricia.abdullah@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U146,E1146,Nadia Villanueva,nadia.villanueva@client.example,Default,Default,Singapore,user,2026-04-01,,Active
+U147,E1147,Hao Dang,hao.dang@client.example,Default,Default,Ho Chi Minh City,user,2026-04-01,,Active
+U148,E1148,Noel Lee,noel.lee@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U149,E1149,Shreya Subramaniam,shreya.subramaniam@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U150,E1150,Aditya Goh,aditya.goh@client.example,Default,Default,Manila,user,2026-04-01,,Active
+U151,E1151,Syafiq Rao,syafiq.rao@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U152,E1152,Naveen Yusof,naveen.yusof@client.example,Default,Default,Bengaluru,user,2026-04-01,,Active
+U153,E1153,Priya Ngo,priya.ngo@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U154,E1154,Kristine Bautista,kristine.bautista@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U155,E1155,Shreya Rao,shreya.rao@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U156,E1156,Carlo Ismail,carlo.ismail@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U157,E1157,Manoj Le,manoj.le@client.example,Default,Default,Manila,user,2026-04-01,,Active
+U158,E1158,Izzati Osman,izzati.osman@client.example,Default,Default,Ho Chi Minh City,user,2026-04-01,,Active
+U159,E1159,Shreya Vu,shreya.vu@client.example,Default,Default,Manila,user,2026-04-01,,Active
+U160,E1160,Izzati Murthy,izzati.murthy@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U161,E1161,Hieu Aquino,hieu.aquino@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U162,E1162,Joanna Iyer,joanna.iyer@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U163,E1163,Rizal Subramaniam,rizal.subramaniam@client.example,Default,Default,Ho Chi Minh City,user,2026-04-01,,Active
+U164,E1164,Rafael Dang,rafael.dang@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U165,E1165,Anh Vu,anh.vu@client.example,Default,Default,Bengaluru,user,2026-04-01,,Active
+U166,E1166,Ling Patel,ling.patel@client.example,Default,Default,Manila,user,2026-04-01,,Active
+U167,E1167,Duc Dang,duc.dang@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U168,E1168,Jasmine Aquino,jasmine.aquino@client.example,Default,Default,Kuala Lumpur,user,2026-04-24,,Active
+U169,E1169,Revathy Wong,revathy.wong@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U170,E1170,Varun Nair,varun.nair@client.example,Default,Default,Kuala Lumpur,user,2026-04-01,,Active
+U171,E1171,Lan Shetty,lan.shetty@client.example,Default,Default,Singapore,user,2026-04-01,,Active
+U172,E1172,Kai Le,kai.le@client.example,Default,Default,Bengaluru,user,2026-04-01,,Active
+U173,E1173,Mei Menon,mei.menon@client.example,Finance & Compliance,Finance & Compliance,Bengaluru,user,2026-04-01,,Active
+U174,E1174,Duc Rahman,duc.rahman@client.example,Finance & Compliance,Finance & Compliance,Kuala Lumpur,user,2026-04-01,,Active
+U175,E1175,Hao Navarro,hao.navarro@client.example,Finance & Compliance,Finance & Compliance,Bengaluru,user,2026-04-01,,Active
+U176,E1176,Anh Abdullah,anh.abdullah@client.example,Finance & Compliance,Finance & Compliance,Singapore,user,2026-04-01,,Active
+U177,E1177,Nurul Nair,nurul.nair@client.example,Finance & Compliance,Finance & Compliance,Singapore,user,2026-04-01,,Active
+U178,E1178,Shahrul Goh,shahrul.goh@client.example,Finance & Compliance,Finance & Compliance,Bengaluru,user,2026-04-01,,Active
+U179,E1179,Syafiq Rahman,syafiq.rahman@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U180,E1180,Manoj Ngo,manoj.ngo@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U181,E1181,Nikhil Villanueva,nikhil.villanueva@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U182,E1182,Nadia Kulkarni,nadia.kulkarni@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U183,E1183,Carlo Garcia,carlo.garcia@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U184,E1184,Aiman Joshi,aiman.joshi@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U185,E1185,Lan Aziz,lan.aziz@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U186,E1186,Tuan Rao,tuan.rao@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U187,E1187,Rahul Pillai,rahul.pillai@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U188,E1188,Rizal Pham,rizal.pham@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U189,E1189,Bao Krishnan,bao.krishnan@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U190,E1190,Hao Yusof,hao.yusof@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U191,E1191,Haziq Mendoza,haziq.mendoza@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U192,E1192,Danial Nguyen,danial.nguyen@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U193,E1193,Hui Abdullah,hui.abdullah@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U194,E1194,Kristine Nair,kristine.nair@client.example,TCoE,TCoE,Singapore,user,2026-04-01,,Active
+U195,E1195,Ling Shetty,ling.shetty@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U196,E1196,Yi Iyer,yi.iyer@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U197,E1197,Lan Bui,lan.bui@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U198,E1198,Trang Aquino,trang.aquino@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U199,E1199,Nadia Rahman,nadia.rahman@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U200,E1200,Huong Krishnan,huong.krishnan@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U201,E1201,Liyana Shetty,liyana.shetty@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U202,E1202,Ananya Pham,ananya.pham@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U203,E1203,Deepa Hassan,deepa.hassan@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U204,E1201,Liyana Shetty,liyana.shetty@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U205,E1205,Lakshmi Goh,lakshmi.goh@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U206,E1206,Nurul Subramaniam,nurul.subramaniam@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U207,E1207,Mei Raman,mei.raman@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U208,E1208,Mark Navarro,mark.navarro@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U209,E1209,Tuan Hamid,tuan.hamid@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-07-14,,Active
+U210,E1210,Hao Patel,hao.patel@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U211,E1211,Revathy Do,revathy.do@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U212,E1212,Nikhil Hamid,nikhil.hamid@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U213,E1213,Pooja Dang,pooja.dang@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U214,E1214,Kristine Goh,kristine.goh@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U215,E1215,Hieu Ngo,hieu.ngo@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U216,E1216,Bea Vu,bea.vu@client.example,TCoE,TCoE,Singapore,user,2026-04-01,,Active
+U217,E1217,Zul Ngo,zul.ngo@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U218,E1218,Lan Dang,lan.dang@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U219,E1219,Meera Do,meera.do@client.example,TCoE,TCoE,Singapore,user,2026-04-01,,Active
+U220,E1220,Rohan Lee,rohan.lee@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U221,E1221,Jun Goh,jun.goh@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-07-10,,Active
+U222,E1222,Lan Teo,lan.teo@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U223,E1223,Kavya Vu,kavya.vu@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U224,E1224,Trang Yusof,trang.yusof@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U225,E1225,Huong Ismail,huong.ismail@client.example,TCoE,TCoE,Singapore,user,2026-04-01,,Active
+U226,E1226,Lakshmi Shetty,lakshmi.shetty@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U227,E1227,Huong Lim,huong.lim@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U228,E1228,Liyana Chong,liyana.chong@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U229,E1229,Farah Pham,farah.pham@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U230,E1230,Quang Villanueva,quang.villanueva@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U231,E1231,Rahul Patel,rahul.patel@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U232,E1232,Suresh Joshi,suresh.joshi@client.example,TCoE,TCoE,Singapore,user,2026-04-01,,Active
+U233,E1233,Haziq Navarro,haziq.navarro@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U234,E1234,Varun Santos,varun.santos@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U235,E1235,Manoj Navarro,manoj.navarro@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U236,E1236,Ganesh Abdullah,ganesh.abdullah@client.example,TCoE,TCoE,Ho Chi Minh City,user,2026-04-01,,Active
+U237,E1237,Mark Santos,mark.santos@client.example,TCoE,TCoE,Singapore,user,2026-04-01,,Active
+U238,E1238,Siti Rao,siti.rao@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U239,E1239,Rafael Teo,rafael.teo@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U240,E1240,Mark Villanueva,mark.villanueva@client.example,TCoE,TCoE,Singapore,user,2026-04-01,,Active
+U241,E1241,Meera Osman,meera.osman@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U242,E1242,Hao Rahman,hao.rahman@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U243,E1243,Paolo Vu,paolo.vu@client.example,TCoE,TCoE,Manila,user,2026-04-01,,Active
+U244,E1244,Khairul Reddy,khairul.reddy@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U245,E1245,Thu Krishnan,thu.krishnan@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U246,E1246,Jasmine Rahman,jasmine.rahman@client.example,TCoE,TCoE,Kuala Lumpur,user,2026-04-01,,Active
+U247,E1247,Hao Shetty,hao.shetty@client.example,TCoE,TCoE,Bengaluru,user,2026-04-01,,Active
+U248,E1248,Thu Goh,thu.goh@client.example,TCoE,TCoE,Manila,user,2026-04-21,,Active
+U249,E1249,Deepa Garcia,deepa.garcia@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,,Active
+U250,E1250,Lan Rao,lan.rao@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U251,E1251,Zul Hoang,zul.hoang@client.example,Product and Innovation,Product and Innovation,Ho Chi Minh City,user,2026-04-01,,Active
+U252,E1252,Patricia Tran,patricia.tran@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U253,E1253,Aiman Hamid,aiman.hamid@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U254,E1254,Anh Tran,anh.tran@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U255,E1255,Nikhil Hoang,nikhil.hoang@client.example,Product and Innovation,Product and Innovation,Ho Chi Minh City,user,2026-04-01,,Active
+U256,E1256,Kristine Aquino,kristine.aquino@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U257,E1257,Shreya Ramos,shreya.ramos@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U258,E1258,Minh Sharma,minh.sharma@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,,Active
+U259,E1259,Harish Bui,harish.bui@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U260,E1260,Danial Mendoza,danial.mendoza@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U261,E1261,Naveen Santos,naveen.santos@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U262,E1262,Ananya Goh,ananya.goh@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U263,E1263,Danial Ramos,danial.ramos@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U264,E1264,Varun Krishnan,varun.krishnan@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U265,E1265,Ngoc Nair,ngoc.nair@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U266,E1266,Swathi Hoang,swathi.hoang@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U267,E1267,Liyana Menon,liyana.menon@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U268,E1268,Amir Wong,amir.wong@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U269,E1269,Nadia Ramos,nadia.ramos@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U270,E1270,Hui Lee,hui.lee@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,,Active
+U271,E1271,Aditya Chong,aditya.chong@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U272,E1272,Yi Hamid,yi.hamid@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U273,E1273,Patricia Hoang,patricia.hoang@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,,Active
+U274,E1274,Lan Nguyen,lan.nguyen@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U275,E1275,Yi Santos,yi.santos@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,,Active
+U276,E1276,Jia Dang,jia.dang@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-08-03,,Active
+U277,E1277,Thu Villanueva,thu.villanueva@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U278,E1278,Danial Do,danial.do@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U279,E1279,Jia Yusof,jia.yusof@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U280,E1280,Patricia Lee,patricia.lee@client.example,Product and Innovation,Product and Innovation,Ho Chi Minh City,user,2026-04-01,,Active
+U281,E1281,Farah Vu,farah.vu@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U282,E1282,Bea Reddy,bea.reddy@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U283,E1283,Huong Hoang,huong.hoang@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U284,E1284,Khairul Krishnan,khairul.krishnan@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U285,E1285,Liyana Ngo,liyana.ngo@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U286,E1286,Haziq Hassan,haziq.hassan@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U287,E1287,Karthik Joshi,karthik.joshi@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U288,E1288,Suresh Krishnan,suresh.krishnan@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U289,E1289,Nadia Lim,nadia.lim@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,,Active
+U290,E1290,Xin Abdullah,xin.abdullah@client.example,Product and Innovation,Product and Innovation,Ho Chi Minh City,user,2026-04-01,,Active
+U291,E1291,Aisyah Ngo,aisyah.ngo@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U292,E1292,Farah Yusof,farah.yusof@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U293,E1293,Mei Hassan,mei.hassan@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U294,E1294,Mark Bui,mark.bui@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U295,E1295,Izzati Vu,izzati.vu@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U296,E1296,Huong Raman,huong.raman@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U297,E1297,Farah Shetty,farah.shetty@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U298,E1298,Ling Gupta,ling.gupta@client.example,Product and Innovation,Product and Innovation,Kuala Lumpur,user,2026-04-01,,Active
+U299,E1299,Liyana Navarro,liyana.navarro@client.example,Product and Innovation,Product and Innovation,Singapore,user,2026-04-01,,Active
+U300,E1300,Jia Nair,jia.nair@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,,Active
+U301,E1301,Duc Yusof,duc.yusof@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,,Active
+U302,E1302,Joanna Santos,joanna.santos@client.example,Product and Innovation,Product and Innovation,Manila,user,2026-04-01,2026-09-30,Inactive
+U303,E1303,Lan Ismail,lan.ismail@client.example,Product and Innovation,Product and Innovation,Bengaluru,user,2026-04-01,,Active
+U304,E1304,Amir Subramaniam,amir.subramaniam@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-05-14,,Active
+U305,E1305,Rohan Goh,rohan.goh@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U306,E1306,Nadia Garcia,nadia.garcia@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U307,E1307,Hieu Ismail,hieu.ismail@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,2026-07-03,Inactive
+U308,E1308,Jun Tran,jun.tran@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U309,E1309,Farah Raman,farah.raman@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U310,E1310,Izzati Wong,izzati.wong@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U311,E1311,Aisyah Hassan,aisyah.hassan@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U312,E1312,Quang Hoang,quang.hoang@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U313,E1313,Swathi Hassan,swathi.hassan@client.example,Product Development,Product Development,Manila,user,2026-04-01,,Active
+U314,E1314,Thu Le,thu.le@client.example,Product Development,Product Development,Manila,user,2026-04-01,,Active
+U315,E1315,Hafiz Dang,hafiz.dang@client.example,Product Development,Product Development,Singapore,user,2026-04-01,,Active
+U316,E1316,Patricia Menon,patricia.menon@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,2026-06-10,Inactive
+U317,E1317,Liyana Raman,liyana.raman@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-07-31,,Active
+U318,E1318,Kai Cruz,kai.cruz@client.example,Product Development,Product Development,Singapore,user,2026-04-01,,Active
+U319,E1319,Hieu Osman,hieu.osman@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U320,E1320,Vikram Bautista,vikram.bautista@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U321,E1321,Rahul Aquino,rahul.aquino@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-08-17,,Active
+U322,E1322,Zul Vu,zul.vu@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U323,E1323,Liyana Do,liyana.do@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U324,E1324,Priya Santos,priya.santos@client.example,Product Development,Product Development,Singapore,user,2026-04-01,,Active
+U325,E1325,Trang Joshi,trang.joshi@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,2026-07-08,Inactive
+U326,E1326,Thu Pillai,thu.pillai@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U327,E1327,Ahmad Goh,ahmad.goh@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U328,E1328,Bea Krishnan,bea.krishnan@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U329,E1329,Aiman Wong,aiman.wong@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U330,E1330,Naveen Murthy,naveen.murthy@client.example,Product Development,Product Development,Singapore,user,2026-04-01,,Active
+U331,E1331,Ahmad Ismail,ahmad.ismail@client.example,Product Development,Product Development,Singapore,user,2026-04-01,,Active
+U332,E1332,Farah Ng,farah.ng@client.example,Product Development,Product Development,Manila,user,2026-07-30,,Active
+U333,E1333,Angelica Dang,angelica.dang@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U334,E1331,Ahmad Ismail,ahmad.ismail@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U335,E1335,Ahmad Yusof,ahmad.yusof@client.example,Product Development,Product Development,Singapore,user,2026-04-01,2026-09-21,Inactive
+U336,E1336,Amir Bui,amir.bui@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U337,E1337,Jun Shetty,jun.shetty@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U338,E1338,Meera Tran,meera.tran@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U339,E1339,Izzati Ngo,izzati.ngo@client.example,Product Development,Product Development,Singapore,user,2026-04-01,,Active
+U340,E1340,Mei Rao,mei.rao@client.example,Product Development,Product Development,Singapore,user,2026-04-01,,Active
+U341,E1341,Manoj Raman,manoj.raman@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U342,E1342,Harish Santos,harish.santos@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U343,E1343,Hafiz Yusof,hafiz.yusof@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U344,E1344,Rizal Raman,rizal.raman@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,2026-05-22,Inactive
+U345,E1345,Lan Sharma,lan.sharma@client.example,Product Development,Product Development,Bengaluru,user,2026-07-21,,Active
+U346,E1346,Revathy Garcia,revathy.garcia@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U347,E1347,Ishaan Krishnan,ishaan.krishnan@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,2026-08-27,Inactive
+U348,E1348,Noel Pham,noel.pham@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U349,E1349,Shreya Osman,shreya.osman@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U350,E1350,Miguel Lim,miguel.lim@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U351,E1351,Duc Joshi,duc.joshi@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U352,E1352,Naveen Teo,naveen.teo@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U353,E1353,Miguel Rao,miguel.rao@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U354,E1354,Pooja Goh,pooja.goh@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U355,E1355,Karthik Vu,karthik.vu@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U356,E1356,Yi Ng,yi.ng@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,2026-07-14,Inactive
+U357,E1357,Shreya Mendoza,shreya.mendoza@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U358,E1358,Jun Tan,jun.tan@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U359,E1359,Huong Tran,huong.tran@client.example,Product Development,Product Development,Manila,user,2026-04-01,,Active
+U360,E1360,Nadia Chong,nadia.chong@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U361,E1361,Khairul Nair,khairul.nair@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U362,E1362,Sneha Rao,sneha.rao@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U363,E1363,Paolo Aquino,paolo.aquino@client.example,Product Development,Product Development,Manila,user,2026-04-01,,Active
+U364,E1364,Revathy Villanueva,revathy.villanueva@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U365,E1365,Xin Cruz,xin.cruz@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U366,E1366,Carlo Bui,carlo.bui@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U367,E1367,Khairul Ramos,khairul.ramos@client.example,Product Development,Product Development,Manila,user,2026-04-01,,Active
+U368,E1368,Kai Osman,kai.osman@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U369,E1369,Naveen Gupta,naveen.gupta@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U370,E1370,Liyana Nair,liyana.nair@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U371,E1371,Arjun Ismail,arjun.ismail@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U372,E1372,Tuan Rahman,tuan.rahman@client.example,Product Development,Product Development,Singapore,user,2026-04-01,2026-09-04,Inactive
+U373,E1373,Quang Lee,quang.lee@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U374,E1374,Amir Santos,amir.santos@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U375,E1375,Mark Rao,mark.rao@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-07-21,,Active
+U376,E1376,Ngoc Ismail,ngoc.ismail@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U377,E1377,Hui Reyes,hui.reyes@client.example,Product Development,Product Development,Manila,user,2026-04-01,,Active
+U378,E1378,Sneha Patel,sneha.patel@client.example,Product Development,Product Development,Manila,user,2026-04-01,,Active
+U379,E1379,Syafiq Aquino,syafiq.aquino@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U380,E1380,Liyana Ramos,liyana.ramos@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U381,E1381,Farah Rao,farah.rao@client.example,Product Development,Product Development,Bengaluru,user,2026-04-01,,Active
+U382,E1382,Ananya Ngo,ananya.ngo@client.example,Product Development,Product Development,Kuala Lumpur,user,2026-04-01,,Active
+U383,E1383,Pooja Aziz,pooja.aziz@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U384,E1384,Kristine Vu,kristine.vu@client.example,Product Development,Product Development,Manila,user,2026-04-01,,Active
+U385,E1385,Hafiz Patel,hafiz.patel@client.example,Product Development,Product Development,Ho Chi Minh City,user,2026-04-01,,Active
+U386,E1386,Lakshmi Hassan,lakshmi.hassan@client.example,ESBU,ESBU,Kuala Lumpur,user,2026-04-01,,Active
+U387,E1387,Bea Ngo,bea.ngo@client.example,ESBU,ESBU,Kuala Lumpur,user,2026-04-01,2026-05-21,Inactive
+U388,E1388,Harish Teo,harish.teo@client.example,ESBU,ESBU,Ho Chi Minh City,user,2026-04-01,,Active
+U389,E1389,Pooja Bui,pooja.bui@client.example,ESBU,ESBU,Bengaluru,user,2026-04-01,,Active
+U390,E1390,Hao Krishnan,hao.krishnan@client.example,ESBU,ESBU,Ho Chi Minh City,user,2026-04-01,,Active
+U391,E1391,Swathi Joshi,swathi.joshi@client.example,ESBU,ESBU,Kuala Lumpur,user,2026-04-01,,Active
+U392,E1392,Ling Hamid,ling.hamid@client.example,ESBU,ESBU,Manila,user,2026-04-01,,Active
+U393,E1393,Aditya Tran,aditya.tran@client.example,ESBU,ESBU,Kuala Lumpur,user,2026-04-01,,Active
+U394,E1394,Swathi Pillai,swathi.pillai@client.example,ESBU,ESBU,Kuala Lumpur,user,2026-04-01,,Active
+U395,E1395,Anh Pham,anh.pham@client.example,ESBU,ESBU,Kuala Lumpur,user,2026-04-01,2026-06-12,Inactive
+U396,E1396,Tuan Bautista,tuan.bautista@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Ho Chi Minh City,user,2026-04-01,,Active
+U397,E1397,Ganesh Subramaniam,ganesh.subramaniam@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U398,E1398,Aisyah Reddy,aisyah.reddy@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Manila,user,2026-08-19,,Active
+U399,E1399,Danial Navarro,danial.navarro@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Singapore,user,2026-04-01,,Active
+U400,E1400,Suresh Patel,suresh.patel@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Ho Chi Minh City,user,2026-04-01,,Active
+U401,E1401,Khairul Navarro,khairul.navarro@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U402,E1402,Izzati Hassan,izzati.hassan@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Manila,user,2026-04-01,,Active
+U403,E1403,Shreya Raman,shreya.raman@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U404,E1404,Liyana Subramaniam,liyana.subramaniam@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U405,E1405,Ananya Bui,ananya.bui@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,2026-09-23,Inactive
+U406,E1406,Rohan Le,rohan.le@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U407,E1407,Kavya Bui,kavya.bui@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U408,E1408,Kavya Iyer,kavya.iyer@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U409,E1409,Bea Cruz,bea.cruz@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U410,E1410,Miguel Vu,miguel.vu@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U411,E1411,Bea Shetty,bea.shetty@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U412,E1412,Trang Villanueva,trang.villanueva@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Ho Chi Minh City,user,2026-04-01,,Active
+U413,E1413,Xin Teo,xin.teo@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Manila,user,2026-04-01,,Active
+U414,E1414,Thu Rahman,thu.rahman@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Manila,user,2026-04-01,,Active
+U415,E1415,Kristine Bui,kristine.bui@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Bengaluru,user,2026-04-01,,Active
+U416,E1416,Nikhil Tan,nikhil.tan@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U417,E1417,Rizal Nguyen,rizal.nguyen@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Bengaluru,user,2026-04-01,,Active
+U418,E1418,Vikram Hoang,vikram.hoang@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Bengaluru,user,2026-04-01,,Active
+U419,E1419,Zul Chong,zul.chong@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Manila,user,2026-04-01,,Active
+U420,E1420,Rizal Hoang,rizal.hoang@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U421,E1421,Tuan Teo,tuan.teo@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Manila,user,2026-04-01,,Active
+U422,E1422,Izzati Rao,izzati.rao@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U423,E1423,Karthik Villanueva,karthik.villanueva@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Kuala Lumpur,user,2026-04-01,,Active
+U424,E1424,Rahul Lee,rahul.lee@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Singapore,user,2026-04-01,,Active
+U425,E1425,Xin Tan,xin.tan@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Manila,user,2026-05-08,,Active
+U426,E1426,Farah Aquino,farah.aquino@client.example,Service Delivery Mgmt,Service Delivery Mgmt,Ho Chi Minh City,user,2026-04-01,,Active
+U427,E1427,Meera Lee,meera.lee@client.example,AG MGATE,AG MGATE,Kuala Lumpur,user,2026-04-20,,Active
+U428,E1428,Hui Reddy,hui.reddy@client.example,AG MGATE,AG MGATE,Ho Chi Minh City,user,2026-04-01,,Active
+U429,E1429,Farah Reyes,farah.reyes@client.example,AG MGATE,AG MGATE,Bengaluru,user,2026-04-01,,Active
+U430,E1430,Suresh Shetty,suresh.shetty@client.example,Marketing & Partnership,Marketing & Partnership,Singapore,user,2026-04-01,,Active
+U431,E1431,Tuan Pillai,tuan.pillai@client.example,Marketing & Partnership,Marketing & Partnership,Ho Chi Minh City,user,2026-04-01,,Active
+U432,E1432,Danial Goh,danial.goh@client.example,Marketing & Partnership,Marketing & Partnership,Singapore,user,2026-04-01,,Active
+U433,E1433,Khairul Osman,khairul.osman@client.example,Marketing & Partnership,Marketing & Partnership,Kuala Lumpur,user,2026-04-01,,Active
+U434,E1434,Rahul Reyes,rahul.reyes@client.example,MSO - Ops & Service Mgmt,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U435,E1435,Ling Tran,ling.tran@client.example,MSO - Ops & Service Mgmt,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U436,E1436,Aiman Hoang,aiman.hoang@client.example,MSO - Ops & Service Mgmt,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U437,E1437,Rahul Reddy,rahul.reddy@client.example,MSO - Ops & Service Mgmt,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U438,E1438,Mei Pillai,mei.pillai@client.example,MSO - Ops & Service Mgmt,MSO,Manila,user,2026-04-01,,Active
+U439,E1439,Nurul Ramos,nurul.ramos@client.example,MSO - Ops & Service Mgmt,MSO,Bengaluru,user,2026-04-01,,Active
+U440,E1440,Jun Murthy,jun.murthy@client.example,MSO - Ops & Service Mgmt,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U441,E1441,Shreya Abdullah,shreya.abdullah@client.example,MSO - Ops & Service Mgmt,MSO,Singapore,user,2026-04-01,,Active
+U442,E1442,Angelica Abdullah,angelica.abdullah@client.example,MSO - Ops & Service Mgmt,MSO,Kuala Lumpur,user,2026-04-01,,Active
+U443,E1443,Ishaan Pham,ishaan.pham@client.example,Software Engineering,Software Engineering,Ho Chi Minh City,user,2026-04-01,,Active
+U444,E1444,Aditya Reyes,aditya.reyes@client.example,Software Engineering,Software Engineering,Ho Chi Minh City,user,2026-04-21,,Active
+U445,E1445,Khairul Patel,khairul.patel@client.example,Software Engineering,Software Engineering,Ho Chi Minh City,user,2026-04-01,,Active
+U446,E1446,Izzati Dang,izzati.dang@client.example,SAP Practice,SAP Practice,Kuala Lumpur,user,2026-04-01,,Active
+U447,E1447,Ahmad Osman,ahmad.osman@client.example,SAP Practice,SAP Practice,Singapore,user,2026-04-01,,Active
+U448,E1448,Aisyah Patel,aisyah.patel@client.example,SAP Practice,SAP Practice,Manila,user,2026-04-01,,Active
+U449,E1449,Jun Gupta,jun.gupta@client.example,SAP Practice,SAP Practice,Manila,user,2026-04-01,,Active
+U450,E1450,Hieu Raman,hieu.raman@client.example,SAP Practice,SAP Practice,Kuala Lumpur,user,2026-04-01,,Active
+U451,E1451,Kavya Aquino,kavya.aquino@client.example,SAP Practice,SAP Practice,Kuala Lumpur,user,2026-04-01,,Active
+U452,E1452,Jasmine Osman,jasmine.osman@client.example,SAP Practice,SAP Practice,Bengaluru,user,2026-06-04,,Active
+U453,E1453,Miguel Bui,miguel.bui@client.example,Sales - MY SG ASEAN,Sales - MY SG ASEAN,Bengaluru,user,2026-04-01,,Active
+U454,E1454,Hafiz Ramos,hafiz.ramos@client.example,Sales - MY SG ASEAN,Sales - MY SG ASEAN,Kuala Lumpur,user,2026-04-01,,Active
+U455,E1455,Bao Santos,bao.santos@client.example,Sales - MY SG ASEAN,Sales - MY SG ASEAN,Kuala Lumpur,user,2026-04-01,,Active
+U456,E1456,Pooja Hamid,pooja.hamid@client.example,Sales - MY SG ASEAN,Sales - MY SG ASEAN,Kuala Lumpur,user,2026-04-01,,Active
+U457,E1457,Vikram Ramos,vikram.ramos@client.example,Sales - MY SG ASEAN,Sales - MY SG ASEAN,Manila,user,2026-04-01,,Active
+U458,E1458,Meera Santos,meera.santos@client.example,Sales - MY SG ASEAN,Sales - MY SG ASEAN,Manila,user,2026-04-01,,Active
+U459,E1459,Vikram Vu,vikram.vu@client.example,Sales - MY SG ASEAN,Sales - MY SG ASEAN,Singapore,user,2026-04-01,,Active
+U460,E1460,Ahmad Nguyen,ahmad.nguyen@client.example,Sales - MY SG ASEAN,Sales - MY SG ASEAN,Bengaluru,user,2026-04-01,,Active
+U461,E1461,Kristine Reyes,kristine.reyes@client.example,IT Security & Governance,IT Security & Governance,Manila,user,2026-04-01,,Active
+U462,E1462,Meera Chong,meera.chong@client.example,IT Security & Governance,IT Security & Governance,Singapore,user,2026-07-07,,Active
+T001,T900,Test admin 1,admin1@we360.example,Default,Default,Kuala Lumpur,test,2026-04-01,,Active
+T002,T901,Test admin 2,admin2@we360.example,Default,Default,Kuala Lumpur,test,2026-04-01,,Active
+T003,T902,Test admin 3,admin3@we360.example,Default,Default,Kuala Lumpur,test,2026-04-01,,Active
+T004,T903,Test admin 4,admin4@we360.example,Default,Default,Kuala Lumpur,test,2026-04-01,,Active
+T005,T904,Test admin 5,admin5@we360.example,Default,Default,Kuala Lumpur,test,2026-04-01,,Active

@@ -1,0 +1,22 @@
+team,department,client_facing,headcount
+MSO - Applications,MSO,False,15
+Managed Services,Managed Services,False,10
+MSO - Monitoring,MSO,False,17
+MSO - Infra & AIOps,MSO,False,13
+People & Culture,People & Culture,False,12
+GCC Data AI Presales,GCC Data AI Presales,True,11
+Salesforce Practice,Salesforce Practice,False,38
+Default,Default,False,56
+Finance & Compliance,Finance & Compliance,False,6
+TCoE,TCoE,False,70
+Product and Innovation,Product and Innovation,False,55
+Product Development,Product Development,False,82
+ESBU,ESBU,False,10
+Service Delivery Mgmt,Service Delivery Mgmt,False,31
+AG MGATE,AG MGATE,False,3
+Marketing & Partnership,Marketing & Partnership,True,4
+MSO - Ops & Service Mgmt,MSO,False,9
+Software Engineering,Software Engineering,False,3
+SAP Practice,SAP Practice,False,7
+Sales - MY SG ASEAN,Sales - MY SG ASEAN,True,8
+IT Security & Governance,IT Security & Governance,False,2
